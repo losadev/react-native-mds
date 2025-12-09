@@ -1,4 +1,3 @@
-
 # react-native-mds / React Native Movesense Library
 
 ## Getting started
